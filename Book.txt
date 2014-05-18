@@ -6,4 +6,5 @@ preface.md
 mainmatter:
 getting_started.md
 requirements.md
+application_requirements.md
 bibliography.md

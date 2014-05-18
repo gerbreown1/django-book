@@ -9,23 +9,13 @@ prices:
         * Incredibly awesome content
     media:
       - ebooks
-    price: 3500
+    price: 0
 
   -
-    code: all
-    name: "HTML, Ebook, and Screencasts"
-    description:
-      |
-        * Includes 10 hours of video screencasts
-        * Ebooks inclded in PDF/EPUB/MOBI formats
-    media:
-      - ebooks
-      - media/screencasts
-    price: 12500
 
 authors:
   -
-    name: "The Author"
+    name: "Gerald S. Brown"
     image: /images/testimonial_1.png
     contact_email: "info@softcover.io"
     bio:
@@ -34,27 +24,10 @@ authors:
 
 faq:
   -
-    question: "Question 1 text"
-    answer: "Answer 1 text"
+    question: "What is Django?"
+    answer: "A easy to use framework written with Python for creating web sites an pc applications."
 
-  -
-    question: "Question 2 text"
-    answer: "Answer 2 text"
+marketing_content: 'A **Free** about creating applications with Django.'
 
-testimonials:
-  -
-    name: "Person 1"
-    title: "Person 1 Title"
-    image: /images/testimonial_1.png
-    text: "Testimonial 1 text"
-
-  -
-    name: "Person 2"
-    title: "Person 2 Title"
-    gravatar_email: "info@softcover.io"
-    text: "Testimonial 2 text"
-
-marketing_content: ''
-
-contact_email: ''
+contact_email: 'gbrown@gerbreown.com'
 hide_custom_domain_footer: false

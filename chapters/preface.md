@@ -18,4 +18,6 @@ The Geany text editor that I am using has a word count feature but it only show 
  
 ## The sample application that we will be building as we go through this book.
 
+This application will **NOT** be a *hello world* make believe application.
+
 It will be a word counting application that can be used by writers to count the number of words that they create on their projects.
